@@ -1,2 +1,2 @@
 # nightwing-tbp
-🌟 A general purpose bot for trollbox.
+🌟 A bot for trollbox used for archival purposes only.
